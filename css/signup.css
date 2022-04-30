@@ -1,0 +1,170 @@
+.signup {
+    background-image: url(../images/Background\ login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    backdrop-filter: blur(50px);
+}   
+.persegi {
+    position:absolute;
+    width: 901px;
+    height: 1080px;
+    left: 510px;
+    top: 0px;
+    background-color: #970C10 ;   
+}
+.judul {
+    position: absolute;
+    width: 474px;
+    height: 84px;
+    left: 213px;
+    right: 214px;
+    top: 160px;
+    font-family: 'Lemon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 84px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.username {
+    position: absolute;
+    width: 118px;
+    height: 29px;
+    left: 217px;
+    right: 566px;
+    top: 319px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.kotak-username {
+    position: absolute;
+    width: 466px;
+    height: 55px;
+    left: 217px;
+    right: 218px;
+    top: 361px;
+    background: #FBFBFB;
+    border-radius: 63px;
+}
+.email {
+    position: absolute;
+    width: 62px;
+    height: 29px;
+    left: 217px;
+    right: 566px;
+    top: 426px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.kotak-email {
+    position: absolute;
+    width: 466px;
+    height: 55px;
+    left: 217px;
+    right: 218px;
+    top: 465px;
+    background: #FBFBFB;
+    border-radius: 63px;
+}
+.negara {
+    position: absolute;
+    width: 90px;
+    height: 29px;
+    left: 217px;
+    right: 566px;
+    top: 533px; 
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.kotak-negara {   
+    position: absolute;
+    width: 466px;
+    height: 55px;
+    left: 217px;
+    right: 218px;
+    top: 572px;
+    background: #FBFBFB;
+    border-radius: 63px;
+}
+/*.pilihan-negara {
+
+}*/
+.kata-sandi {
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    left: 217px;
+    right: 566px;
+    top: 637px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.kotak-kata-sandi {  
+    position: absolute;
+    width: 466px;
+    height: 55px;
+    left: 217px;
+    right: 218px;
+    top: 676px;
+    background: #FBFBFB;
+    border-radius: 63px;
+}
+.daftar {
+    position: absolute;
+    width: 419.35px;
+    height: 79px;
+    left: 400px;
+    top: 801px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.kotak-daftar {
+    position: absolute;
+    width: 421px;
+    height: 80px;
+    left: 240px;
+    right: 240px;
+    top: 802px;
+    background: #947360;
+    mix-blend-mode: overlay;
+    border-radius: 26px;
+}

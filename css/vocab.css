@@ -186,3 +186,171 @@
     left: 970px;
     top: 816px;
 }
+.fitur-layar-gelap {
+    position: absolute;
+    width: 1920px;
+    height: 1010px;
+    left: -190px;
+    top: 74px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.fitur-kotak-vocab {
+    position: absolute;
+    width: 1212px;
+    height: 406px;
+    left: 80px;
+    top: 350px;
+    background: #FFFFFF;
+    border-radius: 46px;
+}
+.fitur-kotak-judul-vocab {
+    position: absolute;
+    left: 79px;
+    top: 350px;
+}
+.fitur-judul-vocab {
+    position: absolute;
+    width: 1214px;
+    height: 105px;
+    left: 550px;
+    top: 350px;
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.fitur-garis-1 {
+    position: absolute;
+    left: 80px;
+    top: 500px;
+}
+.fitur-garis-2 {
+    position: absolute;
+    left: 80px;
+    top: 580px;
+}
+.fitur-garis-3 {
+    position: absolute;
+    left: 80px;
+    top: 660px;
+}
+.fitur-garis-tegak {
+    position: absolute;
+    left: 700px;
+    top: 455px;
+}
+.fitur-kosakata {   
+    position: absolute;
+    width: 607px;
+    height: 71px;
+    left: 300px;
+    top: 450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.fitur-arti {   
+    position: absolute;
+    width: 607px;
+    height: 71px;
+    left: 953px;
+    top: 450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.fitur-kata-accompany {
+    position: absolute;
+    width: 178px;
+    height: 39px;
+    left: 150px;
+    top: 535px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+.fitur-kata-menemani {
+    position: absolute;
+    width: 157px;
+    height: 39px;
+    left: 800px;
+    top: 535px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+.fitur-kata-accuse {
+    position: absolute;
+    width: 112px;
+    height: 39px;
+    left: 150px;
+    top: 615px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+.fitur-kata-menuduh {
+    position: absolute;
+    width: 142px;
+    height: 39px;
+    left: 800px;
+    top: 615px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+.fitur-kata-accept {
+    position: absolute;
+    width: 108px;
+    height: 39px;
+    left: 150px;
+    top: 695px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+.fitur-kata-menerima {
+    position: absolute;
+    width: 159px;
+    height: 39px;
+    left: 800px;
+    top: 695px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}

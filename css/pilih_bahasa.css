@@ -1,0 +1,261 @@
+.persegi {
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    background: #970C10;
+}
+.fitur-belajar {  
+    position: absolute;
+    width: 98px;
+    height: 29px;
+    left: 190px;
+    top: 46px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-belajar {
+    position: absolute;
+    left: -100px;
+    top: 0px;
+}
+.fitur-linimasa {
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 400px;
+    top: 0px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-linimasa {
+    position: absolute;
+    left: 350px;
+    top: -5px;
+}
+.fitur-pesan {
+    position: absolute;
+    width: 74px;
+    height: 29px;
+    left: 800px;
+    top: 0px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-pesan {
+    position: absolute;
+    left: 750px;
+    top: -5px;
+}
+.fitur-bendera-merah {
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    left: 1300px;
+    top: -10px;
+    background: #FF2F2F;
+}
+.fitur-bendera-putih {   
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    left: 1300px;
+    top: 15px;
+    background: #FFFFFF;
+}
+.fitur-akun-belum-terdaftar {
+    position: absolute;
+    width: 248px;
+    height: 29px;
+    left: 1400px;
+    top: 0px; 
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px; 
+    color: #FFFFFF;    
+}
+.fitur-ikon-akun-belum-terdaftar {
+    position: absolute;
+    left: 1630px;
+    top: -20px;
+}
+.fitur-bahasa-ibu {
+    position: absolute;
+    width: 900px;
+    height: 500px;
+    left: 138px;
+    top: -100px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.fitur-kotak-bendera-inggris {
+    position: absolute;
+    width: 346px;
+    height: 346px;
+    left: 115px;
+    top: 259px;
+    background: #CCCCCC;
+    box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.fitur-kotak-bendera-indonesia {
+    position: absolute;
+    width: 346px;
+    height: 346px;
+    left: 570px;
+    top: 259px;
+    background: #CCCCCC;
+    box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.fitur-bendera-inggris {   
+    position: absolute;
+    width: 277px;
+    height: 159px;
+    left: 150px;
+    top: 311px;
+}
+.fitur-bendera-indonesia {
+    position: absolute;
+    width: 277px;
+    height: 154px;
+    left: 605px;
+    top: 316px;
+}
+.fitur-bahasa-inggris {
+    position: absolute;
+    width: 1000px;
+    height: 1000px;
+    left: 180px;
+    top: 40px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.fitur-bahasa-indonesia {
+    position: absolute;
+    width: 1000px;
+    height: 1000px;
+    left: 613px;
+    top: 40px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.fitur-pilih-bahasa {
+    position: absolute;
+    width: 1805px;
+    height: 49px;
+    left: 115px;
+    top: 715px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.fitur-kotak-bendera-inggris-2 {
+    position: absolute;
+    width: 346px;
+    height: 346px;
+    left: 115px;
+    top: 812px;
+    background: #CCCCCC;
+    box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.fitur-kotak-bendera-indonesia-2 {
+    position: absolute;
+    width: 346px;
+    height: 346px;
+    left: 570px;
+    top: 812px;
+    background: #CCCCCC;
+    box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.fitur-bendera-inggris-2 {   
+    position: absolute;
+    width: 277px;
+    height: 159px;
+    left: 150px;
+    top: 879px;
+}
+.fitur-bendera-indonesia-2 {
+    position: absolute;
+    width: 277px;
+    height: 154px;
+    left: 605px;
+    top: 884px;    
+}
+.fitur-bahasa-inggris-2 {
+    position: absolute;
+    width: 1000px;
+    height: 1000px;
+    left: 180px;
+    top: 600px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.fitur-bahasa-indonesia-2 {
+    position: absolute;
+    width: 1000px;
+    height: 1000px;
+    left: 613px;
+    top: 600px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+/*.fitur-lanjut {
+
+} */

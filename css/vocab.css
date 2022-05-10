@@ -354,3 +354,10 @@
     line-height: 39px;
     color: #000000;
 }
+.fitur-tanda-silang {
+    position: absolute;
+    width: 33.94px;
+    height: 33.94px;
+    left: 1220px;
+    top: 380px;
+}

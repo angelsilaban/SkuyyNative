@@ -1,0 +1,228 @@
+.persegi {
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    background: #970C10;
+}
+.fitur-belajar {  
+    position: absolute;
+    width: 98px;
+    height: 29px;
+    left: 190px;
+    top: 46px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-belajar {
+    position: absolute;
+    left: -100px;
+    top: 0px;
+}
+.fitur-linimasa {
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 400px;
+    top: 0px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-linimasa {
+    position: absolute;
+    left: 350px;
+    top: -5px;
+}
+.fitur-pesan {
+    position: absolute;
+    width: 74px;
+    height: 29px;
+    left: 800px;
+    top: 0px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-pesan {
+    position: absolute;
+    left: 750px;
+    top: -5px;
+}
+.fitur-bendera-merah {
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    left: 1300px;
+    top: -10px;
+    background: #FF2F2F;
+}
+.fitur-bendera-putih {   
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    left: 1300px;
+    top: 15px;
+    background: #FFFFFF;
+}
+.fitur-akun-belum-terdaftar {
+    position: absolute;
+    width: 248px;
+    height: 29px;
+    left: 1400px;
+    top: 0px; 
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px; 
+    color: #FFFFFF;    
+}
+.fitur-ikon-akun-belum-terdaftar {
+    position: absolute;
+    left: 1630px;
+    top: -20px;
+}
+.fitur-kotak-penghargaan {
+    position: absolute;
+    width: 598px;
+    height: 780px;
+    left: -100px;
+    top: 219px;
+    background: #CCCCCC;
+    border-radius: 45px;
+}
+.fitur-kata-penghargaan {
+    position: absolute;
+    width: 312px;
+    height: 58px;
+    left: 50px;
+    top: 239px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #000000;
+}
+.fitur-kata-nama-user {
+    position: absolute;
+    width: 600px;
+    height: 118px;
+    left: 650px;
+    top: 188px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 118px;
+    color: #000000;
+}
+.fitur-kotak-bahasa-ibu {
+    box-sizing: border-box;
+    position: absolute;
+    width: 276px;
+    height: 88px;
+    left: 600px;
+    top: 317px;
+    border: 7px solid #970C10;
+    border-radius: 92px;
+}
+.fitur-kata-bahasa-ibu {
+    position: absolute;
+    width: 229px;
+    height: 59px;
+    left: 635px;
+    top: 332px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #970C10;
+}
+.fitur-kotak-bahasa-yang-akan-dipelajari {
+    box-sizing: border-box;
+    position: absolute;
+    width: 210px;
+    height: 88px;
+    left: 1000px;
+    top: 317px;
+    border: 7px solid #947360;
+}
+.fitur-kata-bahasa-yang-akan-dipelajari {
+    position: absolute;
+    width: 154px;
+    height: 59px;
+    left: 1035px;
+    top: 332px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #947360;
+}
+.fitur-kotak-warna-hijau {
+    position: absolute;
+    width: 653px;
+    height: 67px;
+    left: 600px;
+    top: 442px;
+    background: #96EA89;
+    border-radius: 52px;
+}
+.fitur-kotak-warna-putih {   
+    position: absolute;
+    width: 205px;
+    height: 51px;
+    left: 1040px;
+    top: 450px;
+    background: #FFFFFF;
+    border-radius: 0px 52px 52px 0px;
+}
+.fitur-kata-35566-XP {
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 1080px;
+    top: 514px;
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #619B58;
+}
+.fitur-profile {
+    position: absolute;
+    width: 366px;
+    height: 379px;
+    left: 1350px;
+    top: 161px;
+}
+.fitur-kata-level-19 {   
+    position: absolute;
+    width: 179px;
+    height: 59px;
+    left: 1450px;
+    top: 536px;
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}

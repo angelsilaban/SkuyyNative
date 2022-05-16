@@ -1,0 +1,316 @@
+.persegi {
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    background: #970C10;
+}
+.fitur-belajar {  
+    position: absolute;
+    width: 98px;
+    height: 29px;
+    left: 190px;
+    top: 46px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-belajar {
+    position: absolute;
+    left: -100px;
+    top: 0px;
+}
+.fitur-linimasa {
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 400px;
+    top: 0px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-linimasa {
+    position: absolute;
+    left: 350px;
+    top: -5px;
+}
+.fitur-pesan {
+    position: absolute;
+    width: 74px;
+    height: 29px;
+    left: 800px;
+    top: 0px;
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.fitur-ikon-pesan {
+    position: absolute;
+    left: 750px;
+    top: -5px;
+}
+.fitur-kamu-disini {
+    position: absolute;
+    width: 223px;
+    height: 49px;
+    left: -50px;
+    top: 331px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    color: #000000;
+}
+.fitur-segitiga {
+    position: absolute;
+    width: 82px;
+    height: 87px;
+    left: 25px;
+    top: 400px;
+}
+.fitur-lingkaran-abu-abu {
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    left: -25px;
+    top: 474px;
+}
+.fitur-lingkaran-hijau {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    left: -5px;
+    top: 491px;
+}
+.fitur-angka-1 {
+    position: absolute;
+    width: 54px;
+    height: 118px;
+    left: 35px;
+    top: 500px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 118px;
+    color: #FFFFFF;
+}
+.fitur-kotak-abu-abu {    
+    position: absolute;
+    width: 261px;
+    height: 327px;
+    left: -70px;
+    top: 676px;
+    background: #E2E2E2;
+    border-radius: 16px;
+}
+.fitur-kotak-warna-hijau {
+    position: absolute;
+    width: 237px;
+    height: 305px;
+    left: -55px;
+    top: 687px;
+    background: #5ACD23;
+    border-radius: 16px;
+}
+.fitur-kata-level-I {  
+    position: absolute;
+    width: 211px;
+    height: 44px;
+    left: -45px;
+    top: 696px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.fitur-kata-noun-I {
+    position: absolute;
+    width: 149px;
+    height: 39px;
+    left: -15px;
+    top: 751px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.fitur-kata-adjective-I {
+    position: absolute;
+    width: 216px;
+    height: 39px;
+    left: -15px;
+    top: 797px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.fitur-kata-verb-I {
+    position: absolute;
+    width: 500px;
+    height: 39px;
+    left: 175px;
+    top: 893px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.fitur-kotak-penghubung-1-2 {   
+    position: absolute;
+    width: 539px;
+    height: 43px;
+    left: 330px;
+    top: 590px;
+    background: #E2E2E2;
+}
+.fitur-lingkaran-abu-abu-2 {
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    left: 850px;
+    top: 515px;
+}
+.fitur-lingkaran-biru {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 872px;
+    top: 532px;
+}
+.fitur-angka-2 {
+    position: absolute;
+    width: 54px;
+    height: 118px;
+    left: 912px;
+    top: 535px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 118px;
+    color: #FFFFFF;
+}
+.fitur-kotak-abu-abu-2 {    
+    position: absolute;
+    width: 261px;
+    height: 327px;
+    left: 800px;
+    top: 720px;
+    background: #E2E2E2;
+    border-radius: 16px;
+}
+.fitur-kotak-warna-biru {
+    position: absolute;
+    width: 237px;
+    height: 305px;
+    left: 815px;
+    top: 730px;
+    background: #30B8E3;
+    border-radius: 16px;
+}
+.fitur-kata-level-II {  
+    position: absolute;
+    width: 211px;
+    height: 44px;
+    left: 830px;
+    top: 740px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.fitur-kata-adverb-I {
+    position: absolute;
+    width: 149px;
+    height: 39px;
+    left: 870px;
+    top: 800px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.fitur-kotak-penghubung-2-3 {  
+    position: absolute;
+    width: 568px;
+    height: 43px;
+    left: 1017px;
+    top: 590px;
+    background: #E2E2E2;
+}
+.fitur-lingkaran-abu-abu-3 {  
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    left: 1464px;
+    top: 515px;
+}
+.fitur-lingkaran-merah {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 1485px;
+    top: 532px;
+}
+.fitur-angka-3 {  
+    position: absolute;
+    width: 54px;
+    height: 118px;
+    left: 1527px;
+    top: 535px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 118px;
+    color: #FFFFFF;
+}
+.fitur-kata-level-III {
+    position: absolute;
+    width: 124px;
+    height: 44px;
+    left: 1500px;
+    top: 730px;
+    font-family: 'Nanum Gothic';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+.fitur-kotak-penghubung-3-4 {
+    position: absolute;
+    width: 302px;
+    height: 43px;
+    left: 1620px;
+    top: 590px;
+    background: #E2E2E2;    
+}

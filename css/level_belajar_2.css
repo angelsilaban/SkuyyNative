@@ -65,21 +65,21 @@
     width: 169px;
     height: 169px;
     left: -25px;
-    top: 474px;
+    top: 515px;
 }
 .fitur-lingkaran-true-hijau {
     position: absolute;
     width: 135px;
     height: 135px;
     left: -5px;
-    top: 491px;
+    top: 532px;
 }
 .fitur-kotak-abu-abu {    
     position: absolute;
     width: 261px;
     height: 327px;
     left: -70px;
-    top: 676px;
+    top: 720px;
     background: #E2E2E2;
     border-radius: 16px;
 }
@@ -88,7 +88,7 @@
     width: 237px;
     height: 305px;
     left: -55px;
-    top: 687px;
+    top: 730px;
     background: #5ACD23;
     border-radius: 16px;
 }
@@ -97,7 +97,7 @@
     width: 211px;
     height: 44px;
     left: -45px;
-    top: 696px;
+    top: 740px;
     font-family: 'Nanum Gothic';
     font-style: bold;
     font-weight: 700;
@@ -111,7 +111,7 @@
     width: 149px;
     height: 39px;
     left: -15px;
-    top: 751px;
+    top: 800px;
     font-family: 'Nanum Gothic';
     font-style: bold;
     font-weight: 700;
@@ -124,7 +124,7 @@
     width: 216px;
     height: 39px;
     left: -15px;
-    top: 797px;
+    top: 850px;
     font-family: 'Nanum Gothic';
     font-style: bold;
     font-weight: 700;
@@ -136,8 +136,8 @@
     position: absolute;
     width: 500px;
     height: 39px;
-    left: 175px;
-    top: 893px;
+    left: -15px;
+    top: 900px;
     font-family: 'Nanum Gothic';
     font-style: bold;
     font-weight: 700;
@@ -157,7 +157,7 @@
     position: absolute;
     width: 223px;
     height: 49px;
-    left: 830px;
+    left: 580px;
     top: 361px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -170,36 +170,36 @@
     position: absolute;
     width: 82px;
     height: 87px;
-    left: 900px;
+    left: 650px;
     top: 430px;
+}
+.fitur-kotak-penghubung-1-2 {   
+    position: absolute;
+    width: 539px;
+    height: 43px;
+    left: 120px;
+    top: 590px;
+    background: #5ACD23;
 }
 .fitur-lingkaran-abu-abu-2 {
     position: absolute;
     width: 169px;
     height: 169px;
-    left: 850px;
+    left: 600px;
     top: 515px;
-}
-.fitur-kotak-penghubung-1-2 {   
-    position: absolute;
-    width: 590px;
-    height: 43px;
-    left: 300px;
-    top: 590px;
-    background: #5ACD23;
 }
 .fitur-lingkaran-biru {
     position: absolute;
     width: 135px;
     height: 135px;
-    left: 872px;
+    left: 620px;
     top: 532px;
 }
 .fitur-angka-2 {
     position: absolute;
     width: 54px;
     height: 118px;
-    left: 912px;
+    left: 660px;
     top: 535px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -212,7 +212,7 @@
     position: absolute;
     width: 261px;
     height: 327px;
-    left: 800px;
+    left: 570px;
     top: 720px;
     background: #E2E2E2;
     border-radius: 16px;
@@ -221,7 +221,7 @@
     position: absolute;
     width: 237px;
     height: 305px;
-    left: 815px;
+    left: 585px;
     top: 730px;
     background: #30B8E3;
     border-radius: 16px;
@@ -230,7 +230,7 @@
     position: absolute;
     width: 211px;
     height: 44px;
-    left: 830px;
+    left: 600px;
     top: 740px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -244,7 +244,7 @@
     position: absolute;
     width: 149px;
     height: 39px;
-    left: 870px;
+    left: 630px;
     top: 800px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -257,7 +257,7 @@
     position: absolute;
     width: 150px;
     height: 39px;
-    left: 870px;
+    left: 630px;
     top: 850px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -270,7 +270,7 @@
     position: absolute;
     width: 568px;
     height: 43px;
-    left: 1017px;
+    left: 765px;
     top: 590px;
     background: #E2E2E2;
     border-radius: 0px 100px 100px 0px;
@@ -279,7 +279,7 @@
     position: absolute;
     width: 233px;
     height: 43px;
-    left: 997px;
+    left: 1370px;
     top: 590px;
     background: #30B8E3;
     border-radius: 0px 100px 100px 0px;
@@ -288,21 +288,21 @@
     position: absolute;
     width: 169px;
     height: 169px;
-    left: 1464px;
+    left: 1200px;
     top: 515px;
 }
 .fitur-lingkaran-merah {
     position: absolute;
     width: 135px;
     height: 135px;
-    left: 1485px;
+    left: 1220px;
     top: 532px;
 }
 .fitur-angka-3 {  
     position: absolute;
     width: 54px;
     height: 118px;
-    left: 1527px;
+    left: 1260px;
     top: 535px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -315,7 +315,7 @@
     position: absolute;
     width: 261px;
     height: 327px;
-    left: 1418px;
+    left: 1160px;
     top: 720px;
     background: #E2E2E2;
     border-radius: 16px;
@@ -324,7 +324,7 @@
     position: absolute;
     width: 237px;
     height: 305px;
-    left: 1433px;
+    left: 1173px;
     top: 730px;
     background: #E4303B;
     border-radius: 16px;
@@ -333,7 +333,7 @@
     position: absolute;
     width: 124px;
     height: 44px;
-    left: 1500px;
+    left: 1240px;
     top: 740px;
     font-family: 'Nanum Gothic';
     font-style: bold;
@@ -346,7 +346,7 @@
     position: absolute;
     width: 159px;
     height: 39px;
-    left: 1490px;
+    left: 1225px;
     top: 800px;
     font-family: 'Century Gothic';
     font-style: normal;
@@ -359,7 +359,7 @@
     position: absolute;
     width: 302px;
     height: 43px;
-    left: 1620px;
+    left: 1370px;
     top: 590px;
     background: #E2E2E2;    
 }
